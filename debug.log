@@ -1,0 +1,8 @@
+[0116/203454.984:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0116/234234.926:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0116/235027.636:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0117/030331.963:ERROR:process_info.cc(359)] UncheckedAllocate
+[0117/030331.997:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\saily\AppData\Local\Temp\scoped_dir16224_23100817\Crashpad\attachments\aa64f316-2df3-4c57-8621-17fb9dc91a5b: The system cannot find the path specified. (0x3)
+[0117/085431.169:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0117/102155.998:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0117/120518.006:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
